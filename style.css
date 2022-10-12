@@ -1,0 +1,13 @@
+.nav {
+    border: 3px solid red;
+    text-align: center;
+
+}
+
+.nav li {
+    display: inline;
+}
+
+.body {
+    text-align: center;
+}
