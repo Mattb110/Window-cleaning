@@ -1,11 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
 .nav {
     border: 3px solid red;
-    text-align: center;
 
+
+}
+
+.name {
+    float: left;
+    padding-left: 10px;
+}
+
+
+.phone-number {
+    padding-right: 10px;
+    float: right;
 }
 
 .nav li {
     display: inline;
+    padding-inline: 155px;
+    padding: 100px;
 }
 
 .body {
